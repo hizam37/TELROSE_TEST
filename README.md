@@ -136,3 +136,8 @@ http://localhost:8086/api/v1/auth/get_all_costumers
 }
 ]
 ```
+Проект также содержит junit-тест
+
+Проект можно запустить с помощью команды
+
+java -jar telroseApplication-0.0.1-SNAPSHOT.jar
