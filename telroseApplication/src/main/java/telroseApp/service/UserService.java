@@ -116,7 +116,7 @@ public class UserService {
     }
 
     private CostumerDto convertToDto(User user) {
-        return new CostumerDto(user.getId(),user.getFirstName(),user.getMiddleName(),user.getLastName(),user.getDateOfBirth(),user.getEmail(),user.getPhoneNumber(),user.getPassword());
+        return new CostumerDto(user.getId(),user.getFirstName(),user.getMiddleName(),user.getLastName(),user.getDateOfBirth(),user.getPassword(),user.getEmail(),user.getPhoneNumber());
     }
 
 
