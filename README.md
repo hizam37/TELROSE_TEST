@@ -136,6 +136,13 @@ http://localhost:8086/api/v1/auth/get_all_costumers
 }
 ]
 ```
+
+Администратор с электронной почтой ADMIN@gmail.com и паролем admin сохраняются в базе данных PostgreSQL в самом проекте с помощью sql-запроса.
+```
+INSERT INTO users (role,email,password,middle_name,last_name,phone_number)
+VALUES ('ADMIN','ADMIN@gmail.com','$2a$12$sIURRNC5luRLlk4L3FgVOOO7/xowFdvfUI.xfYk/sR/W/ovNCIeJa','DANIIL','HIZAM','9500299887');
+```
+
 Проект также содержит junit-тест
 
 Проект можно запустить с помощью команды
