@@ -125,14 +125,14 @@ http://localhost:8086/api/v1/auth/get_all_costumers
     "email": "daniilhizam@gmail.com",
     "phoneNumber": "9560296487"
 },
-    "id": 4,
-    "firstName": "daniel",
-    "middleName": "lio",
+    "id": 5,
+    "firstName": "vitaly",
+    "middleName": "vitalivich",
     "lastName": "hizam",
     "dateOfBirth": "2022-10-15",
     "password": "$2a$10$E8YVDibnz8mDGg10zuLFQOWVbTMYv1jkzzaFyqBnN438MwZunf6ge",
-    "email": "daniilhizam@gmail.com",
-    "phoneNumber": "9560296487"
+    "email": "vitaly@gmail.com",
+    "phoneNumber": "9560396487"
 }
 ]
 ```
