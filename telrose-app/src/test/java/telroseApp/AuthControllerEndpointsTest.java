@@ -23,15 +23,8 @@ import telroseApp.model.Role;
 import telroseApp.model.User;
 import telroseApp.repository.UserRepository;
 import telroseApp.service.AuthenticationService;
-import telroseApp.service.JwtService;
-
 import java.time.LocalDate;
-import java.util.Date;
-import java.util.List;
 import java.util.Optional;
-import java.util.UUID;
-
-import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.*;
 import static org.mockito.Mockito.when;

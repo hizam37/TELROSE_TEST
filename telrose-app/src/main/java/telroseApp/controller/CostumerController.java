@@ -2,7 +2,6 @@ package telroseApp.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.RequiredArgsConstructor;
-import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.*;
 import telroseApp.model.User;
 import telroseApp.service.UserService;

@@ -23,6 +23,7 @@ import java.util.stream.Collectors;
 public class UserService {
 
     private final ReferenceTokenRepository referenceTokenRepository;
+
     private final UserRepository userRepository;
 
     public void saveUser(User user) {

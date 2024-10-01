@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>rest-api</groupId>
-	<artifactId>telroseApplication</artifactId>
+	<artifactId>telrose-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>telroseApplication</name>
+	<name>telrose-app</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
