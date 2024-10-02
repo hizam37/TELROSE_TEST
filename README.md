@@ -147,4 +147,4 @@ VALUES ('ADMIN','ADMIN@gmail.com','$2a$12$sIURRNC5luRLlk4L3FgVOOO7/xowFdvfUI.xfY
 
 Проект можно запустить с помощью команды
 
-java -jar telroseApplication-0.0.1-SNAPSHOT.jar
+java -jar telrose-app-0.0.1-SNAPSHOT.jar
